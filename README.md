@@ -1,7 +1,7 @@
 # Workshop on chrome extension
 ### Workshop on "Introduction to Extensions and chrome Browser Extensions: Expanding Software Functionality”.
 
-Welcome to the Chrome Extensions Workshop GitHub repository! This is a beginner-friendly project where you can learn about building Chrome extensions and contribute to the workshop materials. Below, you'll find simple instructions on how to contribute, run the code on your local system and other details.
+Welcome to the Chrome Extensions Workshop GitHub repository! This is a beginner-friendly projects where you can learn about building Chrome extensions and contribute to the workshop materials. Below, you'll find simple instructions on how to contribute, run the code on your local system and other details.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -85,6 +85,8 @@ If you want to work on a specific issue, claim it to let others know you're hand
 
 4. The maintainers will assign the issue to you, and you can start working on it.
 
-Remember to communicate with other contributors through discussions and stay open to feedback and collaboration.
+Remember to communicate with other contributors through discussions and stay open to feedback and collaboration, 
+
+Don't forget to star project 😉.
 
 Happy learning and contributing! 🚀
