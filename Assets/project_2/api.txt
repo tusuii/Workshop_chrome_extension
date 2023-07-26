@@ -1,0 +1,12 @@
+https://api.quotable.io/quotes/random​
+
+https://http.cat/[status_code]​
+
+https://placebear.com/200/200​
+
+https://github.com/thundercomb/poetrydb#readme​
+
+https://meowfacts.herokuapp.com/​
+
+https://www.boredapi.com/api/activity/
+
