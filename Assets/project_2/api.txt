@@ -1,4 +1,4 @@
-https://api.quotable.io/quotes/random​
+https://gist.githubusercontent.com/tusuii/60d95a6b0214a679956502980b3f55d7/raw/100d6206de65d9f90327e07af9a29ea1649b0395/quote.json
 
 https://http.cat/[status_code]​
 
@@ -10,3 +10,4 @@ https://meowfacts.herokuapp.com/​
 
 https://www.boredapi.com/api/activity/
 
+https://api.quotable.io/quotes/random​
