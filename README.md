@@ -89,4 +89,19 @@ Remember to communicate with other contributors through discussions and stay ope
 
 Don't forget to star project 😉.
 
+Team:-
+
+Engineer
+
+
+UI/UX Designer
+
+
+Security Specialist
+
+
+Quality Assurance / Tester
+
+
 Happy learning and contributing! 🚀
+
